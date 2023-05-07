@@ -1,0 +1,372 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.header-text a{
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+    text-decoration: none;
+    margin: 33px 0 ;
+}
+body{
+    font-family: 'Tenor Sans', sans-serif;
+}
+.header-img img{
+    margin: 30px 0 ;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-text{
+    display: flex;
+}
+.header-text p{
+    margin: 0 40px;
+}
+#header{
+    background: #FFFFFF;
+}
+.illustration-text p{
+    font-weight: 400;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #999999;
+}
+.illustration-text h1{
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: uppercase;
+    color: #000000;
+    margin: 18px 0 27px 0 ;
+}
+.illustration-text h3{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #666666;
+}
+.illustration-button button{
+    font-weight: 700;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.illustration{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.illustration-button{
+    display: flex;
+    margin: 28px 0 0 0 ;
+}
+.illustration-button1{
+    margin: 0 0 0 5px;
+}
+button{
+
+    cursor: pointer;
+}
+.illustration-button button{
+    background: none;
+    border: none;
+}
+body{
+    background: #E5E5E5;
+}
+.illustration{
+    margin: 60px 0 0 0 ;
+}
+.photography p{
+    font-weight: 400;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #999999;
+    margin: 24px 0 0 0;
+}
+.photography h1{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #000000;
+    margin: 18px 0 15px 0 ;
+}
+.photography{
+    width: 407px;
+    height: 482px;
+}
+.photography1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.photography2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.photography-tex3{
+    margin: 0 15px;
+}
+.photography-text2{
+    margin: 50px 15px;
+}
+.photography-text4{
+    padding:  0 0 20px 0 ;
+}
+.photography{
+    margin: 60px 0 0 0 ;
+}
+.a1{
+    width: 1200px;
+    height: 4px;
+    background: #c7c7c7;
+    margin: 80px 0 0 0 ;
+}
+.hero1{
+    display: flex;
+
+}
+
+.hero-text{
+    width: 302px;
+    height: 389px;
+}
+.hero-text1{
+    width: 302px;
+    height: 389px;
+}
+.hero-text2{
+    width: 302px;
+    height: 389px;
+}
+.hero-text3{
+    width: 302px;
+    height: 389px;
+}
+.hero-text4{
+    width: 302px;
+    height: 389px;
+}
+.hero-text5{
+    width: 302px;
+    height: 389px;
+}
+.hero-text6{
+    width: 302px;
+    height: 389px;
+}
+.hero-text7{
+    width: 302px;
+    height: 389px;
+}
+.hero2{
+    display: flex;
+}
+.hero{
+    padding: 700px 0 0 0 ;
+}
+.hero img{
+    width: 285px;
+    height: 187px;
+}
+.hero1 p{
+    font-weight: 400;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #999999;
+}
+.hero1 h1{
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.hero2 p{
+    font-weight: 400;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #999999;
+}
+.hero2 h1{
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.hero1 h3{
+    font-weight: 700;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.hero2 h3{
+    font-weight: 700;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.hero h1{
+    margin: 0 0 15px 0 ;
+}
+.hero button{
+    background: #FFFFFF;
+    border-radius: 0;
+    width: 205px;
+    height: 54px;
+    font-weight: 400;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+    border: 1px solid #000000;
+    margin: 70px 0 0 0 ;
+}
+.a2{
+    background: #c7c7c7;
+    border-radius: 0;
+    margin: 90px 0 0 0 ;
+    width: 1200px;
+    height: 4px;
+}
+.graphic1{
+    width: 610px;
+    height: 567px;
+}
+.graphic11{
+    display: flex;
+    justify-content: space-between;
+}
+.graphic22{
+    display: flex;
+    justify-content: space-between;
+}
+.graphic{
+    margin: 130px 0 0 0 ;
+}
+.categories1{
+    display: flex;
+    align-items: center;
+}
+.categories1 a{
+    font-weight: 400;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 0 0 0 15px ;
+    color: #666666;
+}
+.a3{
+    background: #4D4D4D;
+    border-radius: 0;
+    width: 1200px;
+    height: 4px;
+}
+.categories a{
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.categories p{
+    font-weight: 400;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #666666;
+}
+.categories-p{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0 20px 0 ;
+}
+.categories input{
+    width: 221px;
+    height: 48px;
+    margin: 0 -140px 0 0 ;
+}
+.categories button{
+    width: 79px;
+    height: 48px;
+    background: #000000;
+    border-radius: 0;
+    font-weight: 400;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: none;
+}
+input{
+    border: none;
+}
+#Categories{
+    background: #141414;
+}
+
+.categories1{
+    margin: 0 0 60px 0 ;
+    padding: 90px 0 0 0 ;
+}
+.lol{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.a11{
+    margin: 0 0 15px 0 ;
+}
+.a22{
+    margin: 0 0 15px 0 ;
+}
+.a33{
+    margin: 0 0 15px 0 ;
+}
+.a44{
+    margin: 0 0 15px 0 ;
+}
+.categories button{
+    padding: 0 -50px 0 0 ;
+}
+.terms{
+    display: flex;
+    padding: 70px 0 90px 0 ;
+}
+.follow{
+    margin: 0 160px 0 160px ;
+}
+.q11{
+    margin: 20px 0 10px 0 ;
+}
+.a22{
+    margin: 10px 0 0 0 ;
+}
+.q33{
+    margin: 20px 0 10px 0 ;
+}
+.q44{
+    margin: 10px 0 0 0 ;
+}
+.q55{
+    margin: 10px 0 ;
+}
